@@ -1,4 +1,4 @@
-# api-version
+# Rest api-versioning
 
 This provides the sample usage of media-type versioning in rest api.
 
